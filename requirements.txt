@@ -1,7 +1,9 @@
 scikit-learn
 pandas
+numpy
 matplotlib
+seaborn
 requests
 sqlalchemy
-seaborn
 jupyter
+ipykernel
